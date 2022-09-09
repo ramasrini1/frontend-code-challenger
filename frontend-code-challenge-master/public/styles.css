@@ -1,0 +1,12 @@
+.success {
+  color: green;
+  font-size: 30px;
+}
+
+.failure{
+  color: red;
+}
+
+.active{
+  color: blue
+}
